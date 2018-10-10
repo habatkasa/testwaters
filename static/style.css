@@ -1,0 +1,51 @@
+body {
+	background-color: #C8E6C9;;
+}
+
+.all_blank {
+	background-color: blue;
+	height: 50px;
+	margin-top: 0px;
+}
+#homelink a {
+	float:left;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1.3em;
+	margin: 10px;
+}
+
+#loginlink a {
+	float:right;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1.3em;
+	margin:10px;
+}
+
+
+.bodykontainer {
+    margin:30px 15% 0px 15%;
+}
+.imagedisplay {
+	float:left;
+}
+
+.imagedisplay {
+	border-radius: 3px;
+}
+
+.loginbutton {
+     float: right;
+     margin-top: 180px;
+
+}
+.loginbutton button {
+	height:50px;
+	width:100px;
+	border-radius: 5px;
+	color:white;
+	background-color: blue;
+}
